@@ -111,10 +111,10 @@ const styles = {
     alignItems: 'center',
   },
   container: {
-    margin: 5,
-    marginLeft: 10,
-    marginRight: 10,
-    padding: 10,
+    // margin: 5,
+    // marginLeft: 10,
+    // marginRight: 10,
+    // padding: 10,
   },
   containerHasTitle: {
     borderWidth: 1,
